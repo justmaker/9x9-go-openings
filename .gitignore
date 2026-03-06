@@ -1,0 +1,6 @@
+# Data files
+book9x9tt-*.tar.gz
+katago_9x9_sgf/
+
+# Accidental directories
+-p/
